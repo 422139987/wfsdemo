@@ -20,4 +20,4 @@ yarn lint
 ```
 
 ### Reference
-See [Configuration Reference](https://github.com/dailymotion/hls.js).
+See [wfs](https://github.com/ChihChengYang/wfs.js).
