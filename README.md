@@ -1,5 +1,6 @@
 # wfsdemo
-
+wfs.js - html5 player for raw h.264 streams.
+https://github.com/ChihChengYang/wfs.js
 ## Project setup
 ```
 yarn install
