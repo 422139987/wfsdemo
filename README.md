@@ -1,6 +1,4 @@
 # wfsdemo
-wfs.js - html5 player for raw h.264 streams.
-https://github.com/ChihChengYang/wfs.js
 ## Project setup
 ```
 yarn install
@@ -21,5 +19,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Reference
+See [Configuration Reference](https://github.com/dailymotion/hls.js).
